@@ -16,7 +16,9 @@ This beginner-friendly Arduino project allows you to control the speed of a fan 
 - Potentiometer  
 - Push Button  
 - 16x2 LCD with I2C interface  
-- 10kΩ resistor (for potentiometer)  
+- 10kΩ resistor (for potentiometer)
+- - NPN Transistor (e.g., TIP120, 2N2222, or IRF540 MOSFET)
+- Diode (e.g., 1N4007)  
 - Breadboard  
 - Jumper wires  
 - USB cable for programming
